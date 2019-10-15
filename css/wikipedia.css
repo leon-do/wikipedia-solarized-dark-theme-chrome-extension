@@ -1,23 +1,21 @@
 body,
-#mw-head,
-#content {
-  background-color: var(--base03) !important;
-}
-
 table,
 th,
 td,
 ul,
 .thumbinner,
 .navbox,
+#mw-head,
+#content,
 #toc,
 #ca-nstab-main,
 #ca-talk span,
 #ca-view span,
+#ca-viewsource span,
 #ca-edit span,
 #ca-history span,
 #catlinks {
-  background-color: var(--base02) !important;
+  background-color: var(--base03) !important;
 }
 
 h1,
@@ -35,11 +33,13 @@ th,
 td,
 p,
 input,
-.tocnumber {
+.tocnumber,
+#footer-info li {
   color: var(--base0) !important;
 }
 
-a {
+a,
+.toctogglelabel {
   color: var(--blue) !important;
 }
 

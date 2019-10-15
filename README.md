@@ -10,7 +10,7 @@ Step 1 :
 Step 2 :
  Open Settings > More Settings > Extensions
 
-![Step 1, 2, 3](https://github.com/Abhishekds94/solarized-chrome/blob/master/images/Step%201%2C2%2C3.png)
+![Step 1, 2, 3](https://imgur.com/yx7OkoR.png)
 
 Step 3 :
 In the Extensions, Enable Developer Mode
@@ -18,12 +18,12 @@ In the Extensions, Enable Developer Mode
 Step 4 :
 Now, Use the Load Unpacked Option to load the extension that is in your local machine
 
-![Step 4, 5](https://github.com/Abhishekds94/solarized-chrome/blob/master/images/Step%204%2C5.png)
+![Step 4, 5](https://imgur.com/L0D7Oj6.png)
 
 Step 5 : 
 Now, Enable the Extension
 
-![Enable Extension](https://github.com/Abhishekds94/solarized-chrome/blob/master/images/Enable%20extension.png)
+![Enable Extension](https://imgur.com/Jrt30gj.png)
 
 Step 6 :
 Voila!
@@ -32,10 +32,10 @@ Open this
 to check how it works.
 
 Without Extension -
-![Without Extension](https://github.com/Abhishekds94/solarized-chrome/blob/master/images/Without%20Extension.png)
+![Without Extension](https://imgur.com/F8MfLwT.png)
 
 With Extension - 
-![With Extension](https://github.com/Abhishekds94/solarized-chrome/blob/master/images/With%20Extension.png)
+![With Extension](https://imgur.com/L5zAHlj.png)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
@@ -45,13 +45,13 @@ git clone git@github.com:leon-do/solarized-chrome.git
 ```
 
 Add to manifest.json and create a css file - 
-![New CSS](https://github.com/Abhishekds94/solarized-chrome/blob/master/images/manifest.png)
+![New CSS](https://imgur.com/0nNkrHn.png)
 
 To edit the CSS - 
-![Edit CSS](https://github.com/Abhishekds94/solarized-chrome/blob/master/images/css.png)
+![Edit CSS](https://imgur.com/QsaFfGR.png)
 
-To Refresh the extension - 
-![Refresh Extension](https://github.com/Abhishekds94/solarized-chrome/blob/master/images/extension%20refresh.png)
+To Refresh the extension -<br>
+![Refresh Extension](https://imgur.com/bjcePGR.png)
 
 To test the changes - 
-![Test Changes](https://github.com/Abhishekds94/solarized-chrome/blob/master/images/test%20webpage.png)
+![Test Changes](https://imgur.com/D82aTct.png)
