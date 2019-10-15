@@ -1,8 +1,8 @@
-Setup
+<h2> Setup </h2>
 
 `git@github.com:leon-do/solarized-chrome.git`
 
-Settings > More Tools > Extension
+Google Chrome > Settings > More Tools > Extension
 ![](https://imgur.com/o1UH235.png)
 
 Enable "Developer mode" and Load unpacked
@@ -16,3 +16,4 @@ Enable
 
 Visit [Wikipedia](https://en.wikipedia.org/wiki/Solarized_(color_scheme))
 ![](https://imgur.com/SudVUGY.png)
+
