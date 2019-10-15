@@ -1,2 +1,1 @@
-# solarized-chrome
-dark theme chrome extension
+![](https://i.imgur.com/XtWj9Qg.png)

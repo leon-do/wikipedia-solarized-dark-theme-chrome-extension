@@ -1,0 +1,48 @@
+body,
+#mw-head,
+#content {
+  background-color: var(--base03) !important;
+}
+
+table,
+th,
+td,
+ul,
+.thumbinner,
+.navbox,
+#toc,
+#ca-nstab-main,
+#ca-talk span,
+#ca-view span,
+#ca-edit span,
+#ca-history span,
+#catlinks {
+  background-color: var(--base02) !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+caption {
+  color: var(--base1) !important;
+}
+
+div,
+th,
+td,
+p,
+input,
+.tocnumber {
+  color: var(--base0) !important;
+}
+
+a {
+  color: var(--blue) !important;
+}
+
+input {
+  background-color: var(--base02) !important;
+}
