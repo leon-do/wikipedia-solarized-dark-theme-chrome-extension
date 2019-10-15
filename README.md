@@ -23,7 +23,7 @@ Now, Use the Load Unpacked Option to load the extension that is in your local ma
 Step 5 : 
 Now, Enable the Extension
 
-![Enable Extension](https://github.com/Abhishekds94/solarized-chrome/blob/master/images/Step%204%2C5.png)
+![Enable Extension](https://github.com/Abhishekds94/solarized-chrome/blob/master/images/Enable%20extension.png)
 
 Step 6 :
 Voila!
