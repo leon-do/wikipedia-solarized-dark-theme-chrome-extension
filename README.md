@@ -10,7 +10,7 @@ Step 1 :
 Step 2 :
  Open Settings > More Settings > Extensions
 
-![Step 1, 2, 3](https://github.com/Abhishekds94/solarized-chrome/blob/master/images/Step 1,2,3.png)
+![Step 1, 2, 3](https://github.com/Abhishekds94/solarized-chrome/blob/master/images/Step%201%2C2%2C3.png)
 
 
 
