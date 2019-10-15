@@ -10,10 +10,10 @@ Step 1 :
 Step 2 :
  Open Settings > More Settings > Extensions
 
+![Step 1, 2, 3](https://github.com/Abhishekds94/solarized-chrome/blob/master/images/Step%201%2C2%2C3.png)
+
 Step 3 :
 In the Extensions, Enable Developer Mode
-
-![Step 1, 2, 3](https://github.com/Abhishekds94/solarized-chrome/blob/master/images/Step%201%2C2%2C3.png)
 
 Step 4 :
 Now, Use the Load Unpacked Option to load the extension that is in your local machine
