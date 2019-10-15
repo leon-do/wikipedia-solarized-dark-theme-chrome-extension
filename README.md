@@ -40,3 +40,18 @@ With Extension -
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
+```bash
+git clone git@github.com:leon-do/solarized-chrome.git
+```
+
+Add to manifest.json and create a css file - 
+![New CSS](https://github.com/Abhishekds94/solarized-chrome/blob/master/images/manifest.png)
+
+To edit the CSS - 
+![Edit CSS](https://github.com/Abhishekds94/solarized-chrome/blob/master/images/css.png)
+
+To Refresh the extension - 
+![Refresh Extension](https://github.com/Abhishekds94/solarized-chrome/blob/master/images/extension%20refresh.png)
+
+To test the changes - 
+![Test Changes](https://github.com/Abhishekds94/solarized-chrome/blob/master/images/test%20webpage.png)
