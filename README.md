@@ -1,42 +1,30 @@
-<h2> Setup </h2>
+# Solarized Chrome(Chrome Extension)
 
-`git clone git@github.com:leon-do/solarized-chrome.git`
+Solarized Chrome is a Chrome browser extension which enables the Dark mode to all the websites (Working for Wikipedia now)
 
-Google Chrome > Settings > More Tools > Extension
+## Installation
 
-![](https://imgur.com/o1UH235.png)
+Step 1 :
+ Open Chrome Browser
 
-Enable "Developer mode" and Load unpacked
+Step 2 :
+ Open Settings > More Settings > Extensions
 
-![](https://imgur.com/W1jPp1e.png)
+Step 3 :
+In the Extensions, Enable Developer Mode
 
-Select the solarized-chrome folder
+Step 4 :
+Now, Use the Load Unpacked Option to load the extension that is in your local machine
 
-![](https://imgur.com/kcRQJxi.png)
+Step 5 : 
+Now, Enable the Extension
 
-Enable
+Step 6 :
+Voila!
+Open this 
+[Wikipedia site](https://en.wikipedia.org/wiki/Solarized_(color_scheme))
+to check how it works.
 
-![](https://imgur.com/P3Yvuj4.png)
 
-Visit [Wikipedia](https://en.wikipedia.org/wiki/Solarized_(color_scheme))
-![](https://imgur.com/SudVUGY.png)
-
-<h2> Contribute </h2>
-
-`git clone git@github.com:leon-do/solarized-chrome.git`
-
-add to manifest.json and create a css file
-
-![](https://imgur.com/ugb4vra.png)
-
-edit css
-
-![](https://imgur.com/0lGi4K9.png)
-
-go to chrome://extensions/ and refresh the extension
-
-![](https://imgur.com/zdJ8dft.png)
-
-visit the webpage
-
-![](https://imgur.com/plpbNk0.png)
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
