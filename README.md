@@ -4,28 +4,28 @@ Solarized Chrome is a Chrome browser extension which enables the Dark mode to al
 
 ## Installation
 
-Step 1 :
+Step 0 :
  Open Chrome Browser
 
-Step 2 :
+Step 1,2,3 :
  Open Settings > More Settings > Extensions
 
 ![Step 1, 2, 3](https://imgur.com/yx7OkoR.png)
 
-Step 3 :
+Step 4 :
 In the Extensions, Enable Developer Mode
 
-Step 4 :
+Step 5 :
 Now, Use the Load Unpacked Option to load the extension that is in your local machine
 
 ![Step 4, 5](https://imgur.com/L0D7Oj6.png)
 
-Step 5 : 
+Step 6 : 
 Now, Enable the Extension
 
 ![Enable Extension](https://imgur.com/Jrt30gj.png)
 
-Step 6 :
+Step 7 :
 Voila!
 Open this 
 [Wikipedia site](https://en.wikipedia.org/wiki/Solarized_(color_scheme))
