@@ -1,6 +1,6 @@
 <h2> Setup </h2>
 
-`git@github.com:leon-do/solarized-chrome.git`
+`git clone git@github.com:leon-do/solarized-chrome.git`
 
 Google Chrome > Settings > More Tools > Extension
 
@@ -23,7 +23,7 @@ Visit [Wikipedia](https://en.wikipedia.org/wiki/Solarized_(color_scheme))
 
 <h2> Contribute </h2>
 
-`git@github.com:leon-do/solarized-chrome.git`
+`git clone git@github.com:leon-do/solarized-chrome.git`
 
 add to manifest.json and create a css file
 
