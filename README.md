@@ -1,42 +1,57 @@
-<h2> Setup </h2>
+# Solarized Chrome(Chrome Extension)
 
-`git clone git@github.com:leon-do/solarized-chrome.git`
+Solarized Chrome is a Chrome browser extension which enables the Dark mode to all the websites (Working for Wikipedia now)
 
-Google Chrome > Settings > More Tools > Extension
+## Installation
 
-![](https://imgur.com/o1UH235.png)
+Step 1 :
+ Open Chrome Browser
 
-Enable "Developer mode" and Load unpacked
+Step 2 :
+ Open Settings > More Settings > Extensions
 
-![](https://imgur.com/W1jPp1e.png)
+![Step 1, 2, 3](https://github.com/Abhishekds94/solarized-chrome/blob/master/images/Step%201%2C2%2C3.png)
 
-Select the solarized-chrome folder
+Step 3 :
+In the Extensions, Enable Developer Mode
 
-![](https://imgur.com/kcRQJxi.png)
+Step 4 :
+Now, Use the Load Unpacked Option to load the extension that is in your local machine
 
-Enable
+![Step 4, 5](https://github.com/Abhishekds94/solarized-chrome/blob/master/images/Step%204%2C5.png)
 
-![](https://imgur.com/P3Yvuj4.png)
+Step 5 : 
+Now, Enable the Extension
 
-Visit [Wikipedia](https://en.wikipedia.org/wiki/Solarized_(color_scheme))
-![](https://imgur.com/SudVUGY.png)
+![Enable Extension](https://github.com/Abhishekds94/solarized-chrome/blob/master/images/Enable%20extension.png)
 
-<h2> Contribute </h2>
+Step 6 :
+Voila!
+Open this 
+[Wikipedia site](https://en.wikipedia.org/wiki/Solarized_(color_scheme))
+to check how it works.
 
-`git clone git@github.com:leon-do/solarized-chrome.git`
+Without Extension -
+![Without Extension](https://github.com/Abhishekds94/solarized-chrome/blob/master/images/Without%20Extension.png)
 
-add to manifest.json and create a css file
+With Extension - 
+![With Extension](https://github.com/Abhishekds94/solarized-chrome/blob/master/images/With%20Extension.png)
 
-![](https://imgur.com/ugb4vra.png)
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-edit css
+```bash
+git clone git@github.com:leon-do/solarized-chrome.git
+```
 
-![](https://imgur.com/0lGi4K9.png)
+Add to manifest.json and create a css file - 
+![New CSS](https://github.com/Abhishekds94/solarized-chrome/blob/master/images/manifest.png)
 
-go to chrome://extensions/ and refresh the extension
+To edit the CSS - 
+![Edit CSS](https://github.com/Abhishekds94/solarized-chrome/blob/master/images/css.png)
 
-![](https://imgur.com/zdJ8dft.png)
+To Refresh the extension - 
+![Refresh Extension](https://github.com/Abhishekds94/solarized-chrome/blob/master/images/extension%20refresh.png)
 
-visit the webpage
-
-![](https://imgur.com/plpbNk0.png)
+To test the changes - 
+![Test Changes](https://github.com/Abhishekds94/solarized-chrome/blob/master/images/test%20webpage.png)
