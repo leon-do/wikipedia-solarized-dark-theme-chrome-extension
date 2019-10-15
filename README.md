@@ -10,6 +10,11 @@ Step 1 :
 Step 2 :
  Open Settings > More Settings > Extensions
 
+![Step 1, 2, 3](https://github.com/Abhishekds94/solarized-chrome/blob/master/images/Step 1,2,3.png)
+
+
+
+
 Step 3 :
 In the Extensions, Enable Developer Mode
 
@@ -28,3 +33,4 @@ to check how it works.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
