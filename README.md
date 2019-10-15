@@ -33,7 +33,7 @@ edit css
 
 ![](https://imgur.com/0lGi4K9.png)
 
-go to [chrome://extensions/](chrome://extensions/) and refresh the extension
+go to chrome://extensions/ and refresh the extension
 
 ![](https://imgur.com/zdJ8dft.png)
 
