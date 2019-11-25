@@ -9,11 +9,11 @@ ul,
 #content,
 #toc,
 #ca-nstab-main,
-#ca-talk span,
-#ca-view span,
-#ca-viewsource span,
-#ca-edit span,
-#ca-history span,
+#ca-talk *,
+#ca-view *,
+#ca-viewsource *,
+#ca-edit *,
+#ca-history *,
 #catlinks {
   background-color: var(--base03) !important;
 }
@@ -34,7 +34,7 @@ td,
 p,
 input,
 .tocnumber,
-#footer-info li {
+#footer-info * {
   color: var(--base0) !important;
 }
 
