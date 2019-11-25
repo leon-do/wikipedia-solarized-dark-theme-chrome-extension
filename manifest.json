@@ -10,10 +10,6 @@
     {
       "matches": ["https://en.wikipedia.org/*"],
       "css": ["css/wikipedia.css"]
-    },
-    {
-      "matches": ["https://www.google.com/*"],
-      "css": ["css/google.search.css"]
     }
   ]
 }
