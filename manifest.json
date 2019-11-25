@@ -2,6 +2,11 @@
   "manifest_version": 2,
   "name": "solarized-chrome",
   "version": "1.0",
+  "icons": {
+    "16": "icons/icon16.png",
+    "18": "icons/icon18.png",
+    "128": "icons/icon128.png"
+  },
   "content_scripts": [
     {
       "matches": ["<all_urls>"],
