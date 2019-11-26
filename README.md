@@ -1,6 +1,4 @@
-# Solarized Chrome(Chrome Extension)
-
-Solarized Chrome for wikipedia 
+# Solarized Chrome Extension for Wikipedia
 
 https://chrome.google.com/webstore/detail/wikipedia-solarized-dark/dlfagppacjgafgbigaamdjjnhfkhagip
 
