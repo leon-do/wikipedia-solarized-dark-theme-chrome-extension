@@ -2,6 +2,8 @@
 
 Solarized Chrome for wikipedia 
 
+![](https://imgur.com/vadr89o.gif)
+
 ## Installation
 
 Step 0 :
