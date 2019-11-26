@@ -1,6 +1,6 @@
 # Solarized Chrome(Chrome Extension)
 
-Solarized Chrome is a Chrome browser extension which enables the Dark mode to all the websites (Working for Wikipedia now)
+Solarized Chrome for wikipedia 
 
 ## Installation
 
