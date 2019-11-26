@@ -9,12 +9,8 @@
   },
   "content_scripts": [
     {
-      "matches": ["<all_urls>"],
-      "css": ["css/root.css"]
-    },
-    {
       "matches": ["https://en.wikipedia.org/*"],
-      "css": ["css/wikipedia.css"]
+      "css": ["css/root.css", "css/wikipedia.css"]
     }
   ]
 }
