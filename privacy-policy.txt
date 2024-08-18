@@ -1,0 +1,33 @@
+Privacy Policy
+
+Introduction
+
+Thank you for choosing to use the Wikipedia Solarized Dark Theme Chrome extension. Your privacy is important to us. This Privacy Policy outlines that we do not collect any data and how we respect your privacy.
+
+No Data Collection
+
+We are committed to ensuring that your privacy is protected. The Wikipedia Solarized Dark Theme extension does not collect, store, or transmit any personal information or data from your device. This includes but is not limited to:
+
+Personal identification information (such as your name, email address, or phone number)
+Browsing history
+Cookies or tracking information
+Usage data or analytics
+Permissions
+
+The Wikipedia Solarized Dark Theme extension may require certain permissions to function correctly, such as access to specific browser features. However, these permissions are used solely for the intended purpose of applying the dark theme to Wikipedia and do not involve the collection or transmission of any personal data.
+
+Third-Party Services
+
+Our Chrome extension does not use any third-party services, analytics tools, or other external resources that collect data.
+
+Security
+
+While we do not collect any personal information, we are committed to ensuring that any operations performed by the extension are secure. We take appropriate measures to protect against unauthorized access to or alteration of your browser experience.
+
+Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Any changes will be reflected on this page with the updated date at the top. We encourage you to review this Privacy Policy periodically for any updates.
+
+Conclusion
+
+Your privacy is our priority. By using the Wikipedia Solarized Dark Theme extension, you confirm that you understand and agree to this Privacy Policy.
