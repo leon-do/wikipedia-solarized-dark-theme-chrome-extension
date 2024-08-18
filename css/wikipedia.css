@@ -5,10 +5,9 @@ td,
 ul,
 .thumbinner,
 .navbox,
+[class^="mw"],
+[class^="vector-"],
 [id^="ca-"] *,
-#mw-head,
-#content,
-#toc,
 #catlinks {
   background-color: var(--base03) !important;
 }
@@ -33,7 +32,7 @@ input,
   color: var(--base0) !important;
 }
 
-a,
+a *,
 .toctogglelabel {
   color: var(--blue) !important;
 }
