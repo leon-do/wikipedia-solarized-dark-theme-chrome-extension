@@ -5,11 +5,21 @@ td,
 ul,
 .thumbinner,
 .navbox,
-[class^="mw"],
-[class^="vector-"],
+.mw-page-container,
+.mw-header,
+.vector-pinned-container,
+.vector-sticky-header,
+.vector-dropdown-content,
 [id^="ca-"] *,
+#mw-head,
+#content,
+#toc,
 #catlinks {
   background-color: var(--base03) !important;
+}
+
+.vector-sticky-pinned-container::after {
+  background: var(--base03) !important;
 }
 
 h1,
@@ -32,7 +42,8 @@ input,
   color: var(--base0) !important;
 }
 
-a *,
+a,
+a span,
 .toctogglelabel {
   color: var(--blue) !important;
 }
