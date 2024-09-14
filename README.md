@@ -2,7 +2,6 @@
 
 https://chrome.google.com/webstore/detail/wikipedia-solarized-dark/dlfagppacjgafgbigaamdjjnhfkhagip
 
-
 ![](https://imgur.com/vadr89o.gif)
 
 ## Dev Installation
